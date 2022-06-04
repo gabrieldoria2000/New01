@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using New01.Models;
 using System.Diagnostics;
+using New01.Models.ViewModels;
 
 namespace New01.Controllers
 {
